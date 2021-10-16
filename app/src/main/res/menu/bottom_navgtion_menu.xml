@@ -7,12 +7,12 @@
         android:title="Breaking News " />
 
     <item
-        android:id="@+id/savedFragment"
+        android:id="@+id/savedNewsFragment"
         android:icon="@drawable/ic_favorite_news"
         android:title="Saved News " />
 
     <item
-        android:id="@+id/searchFragment"
+        android:id="@+id/searchNewsFragment"
         android:icon="@drawable/ic_baseline_search_news"
         android:title="Seach News " />
 
